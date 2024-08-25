@@ -1,6 +1,4 @@
 # Gabriel Vascon
-
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQEMVXVMz2NZLw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1669387419156?e=1730332800&v=beta&t=YhYMLwWKHaE-_7koxY1lWKqGpvm-wsGJ-9_1ZadwVFM" alt="Vascon11's GitHub Stats" width="100" height="100"/><br>
 Engenheiraria da computação/Tecnico de eletroeletronica<br>
 <h2>Conhecimento nas Tecnologias:</h2>
 <table>
