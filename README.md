@@ -25,4 +25,4 @@ Engenharia da Computação - USJT
 
 
 
-<img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png" alt="SENAI - Técnico de Eletroeletrônica" width="" height="25"/> SENAI - Técnico de Eletroeletrônica
+- <img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png" alt="SENAI - Técnico de Eletroeletrônica" width="" height="25"/> SENAI - Técnico de Eletroeletrônica
