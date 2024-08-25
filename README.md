@@ -21,8 +21,14 @@ Engenharia da Computação - USJT
 
 ## Certificados:
 
-- <img src="https://th.bing.com/th/id/OIP.1PgtDdrpChFFaywWHt-WgQAAAA?rs=1&pid=ImgDetMain" width="" height="70"/> [AZURE-AI900](https://www.credly.com/badges/37155a3a-cdef-45d3-a669-bb7f14af3aea/public_url) - Fundamentos básicos de IA
+<table>
+  <tr>
+    <td><img src="https://th.bing.com/th/id/OIP.1PgtDdrpChFFaywWHt-WgQAAAA?rs=1&pid=ImgDetMain" alt="AZURE-AI900" width="80" height=""/></td>
+    <td><a href="https://www.credly.com/badges/37155a3a-cdef-45d3-a669-bb7f14af3aea/public_url">AZURE-AI900</a> - Fundamentos básicos de IA</td>
+  </tr>
+  <tr>
+    <td><img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png" alt="SENAI - Técnico de Eletroeletrônica" width="100" height=""/></td>
+    <td>SENAI - Técnico de Eletroeletrônica</td>
+  </tr>
+</table>
 
-
-
-- <img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png" alt="SENAI - Técnico de Eletroeletrônica" width="" height="25"/> SENAI - Técnico de Eletroeletrônica
