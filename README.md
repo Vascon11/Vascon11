@@ -1,5 +1,5 @@
 # Gabriel Vascon
-Engenheiraria da computação/Tecnico de eletroeletronica<br>
+Engenharia da Computação / Técnico de Eletroeletrônica<br>
 <h2>Conhecimento nas Tecnologias:</h2>
 <table>
   <tr>
@@ -21,9 +21,8 @@ Engenharia da Computação - USJT
 
 ## Certificados:
 
-- <img src="https://th.bing.com/th/id/OIP.1PgtDdrpChFFaywWHt-WgQAAAA?rs=1&pid=ImgDetMain" width="" height="70"/> [AZURE-AI900](https://www.credly.com/badges/37155a3a-cdef-45d3-a669-bb7f14af3aea/public_url) - Funtamentos basicos de IA
+- <img src="https://th.bing.com/th/id/OIP.1PgtDdrpChFFaywWHt-WgQAAAA?rs=1&pid=ImgDetMain" width="" height="70"/> [AZURE-AI900](https://www.credly.com/badges/37155a3a-cdef-45d3-a669-bb7f14af3aea/public_url) - Fundamentos básicos de IA
 
 
 
-
-- <img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png" alt="SENAI - Técnico de Eletroeletrônica" width="" height="25"/> SENAI - Técnico de Eletroeletrônica <br>
+<img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png" alt="SENAI - Técnico de Eletroeletrônica" width="" height="25"/> SENAI - Técnico de Eletroeletrônica
