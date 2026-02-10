@@ -49,8 +49,8 @@ Engenharia da Computação / Técnico de Eletroeletrônica<br>
   <tr>
     <td>Engenharia da Computação</td>
     <td>USJT</td>
-    <td>2024</td>
-    <td>2027</td>
+    <td>Mar/2023</td>
+    <td>Dez/2027</td>
     <td>Cursando</td>
   </tr>
 </table>
