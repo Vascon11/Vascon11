@@ -12,7 +12,7 @@ Engenharia da Computação / Técnico de Eletroeletrônica<br>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C#"/>
     </td>
     <td>:star::star::star:</td>
   </tr>
@@ -50,7 +50,7 @@ Engenharia da Computação / Técnico de Eletroeletrônica<br>
     <td>Engenharia da Computação</td>
     <td>USJT</td>
     <td>2024</td>
-    <td>2028</td>
+    <td>2027</td>
     <td>Cursando</td>
   </tr>
 </table>
