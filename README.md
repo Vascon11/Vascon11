@@ -1,6 +1,7 @@
 # Gabriel Vascon
 Engenharia da Computação / Técnico de Eletroeletrônica<br>
 
+
 <h2>Conhecimento nas Tecnologias:</h2>
 <table>
   <tr>
@@ -13,7 +14,7 @@ Engenharia da Computação / Técnico de Eletroeletrônica<br>
     <td>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     </td>
-    <td>:star::star:</td>
+    <td>:star::star::star:</td>
   </tr>
   <tr>
     <td>
@@ -31,12 +32,29 @@ Engenharia da Computação / Técnico de Eletroeletrônica<br>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     </td>
-    <td>:star::star::star::star:</td>
+    <td>:star::star::star::star::star:</td>
   </tr>
 </table><br>
 
+
 ## Cursando:
-Engenharia da Computação - USJT
+<table>
+  <tr>
+    <th>Curso</th>
+    <th>Instituição</th>
+    <th>Início</th>
+    <th>Previsão de Término</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Engenharia da Computação</td>
+    <td>USJT</td>
+    <td>2024</td>
+    <td>2028</td>
+    <td>Cursando</td>
+  </tr>
+</table>
+
 
 ## Certificados:
 <table>
