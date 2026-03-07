@@ -85,23 +85,6 @@ Experiência com:
 
 ---
 
-## 🚀 Projetos
-
-Alguns projetos que venho desenvolvendo durante minha jornada em programação:
-
-- 🎮 **2D Shooter em Python**  
-  Desenvolvimento de um jogo utilizando **:contentReference[oaicite:3]{index=3}**, com sistema de inimigos, controle de tempo e modularização do código.
-
-- 🌱 **Sistema de Irrigação Automática**  
-  Projeto utilizando **ESP32**, sensores e controle automatizado de irrigação.
-
-- 🤖 **Scripts de Automação em Python**  
-  Desenvolvimento de scripts para automação de tarefas e manipulação de dados.
-
-*(Esta seção será expandida com novos projetos.)*
-
----
-
 ## 🎓 Formação
 
 <table>
