@@ -76,12 +76,12 @@ Tenho interesse em desenvolvimento de software, eletrônica e infraestrutura Lin
 
 Experiência com:
 
-- uso diário de **:contentReference[oaicite:1]{index=1}**
+- uso diário de Bordo
 - configuração de servidores
-- uso de terminal e shell
+- uso de terminal e shell (Bash)
 - gerenciamento de pacotes
 - configuração de ambientes de desenvolvimento
-- uso de containers com **:contentReference[oaicite:2]{index=2}**
+- uso de containers com Docker
 
 ---
 
