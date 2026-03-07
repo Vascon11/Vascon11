@@ -6,7 +6,7 @@ Engenharia da Computação / Técnico de Eletroeletrônica<br>
 <table>
    <tr>
     <td>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=purple" alt="C#"/>
     </td>
     <td>:star::star:</td>
   </tr>
