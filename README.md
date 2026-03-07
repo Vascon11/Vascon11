@@ -6,19 +6,19 @@ Engenharia da Computação / Técnico de Eletroeletrônica<br>
 <table>
    <tr>
     <td>
-      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=CSharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
     </td>
     <td>:star::star:</td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </td>
     <td>:star::star::star::star:</td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     </td>
     <td>:star::star::star:</td>
   </tr>
@@ -30,7 +30,7 @@ Engenharia da Computação / Técnico de Eletroeletrônica<br>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
     </td>
     <td>:star::star::star:</td>
   </tr>
@@ -40,9 +40,7 @@ Engenharia da Computação / Técnico de Eletroeletrônica<br>
     </td>
     <td>:star::star::star::star::star:</td>
   </tr>
-</table><br>
-
-
+</table>
 ## Cursando:
 <table>
   <tr>
