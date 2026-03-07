@@ -1,87 +1,126 @@
 # Gabriel Vascon
-Engenharia da Computação / Técnico de Eletroeletrônica<br>
 
+🎓 Engenharia da Computação  
+🔧 Técnico em Eletroeletrônica  
 
-<h2>Conhecimento nas Tecnologias:</h2>
+Estudante de tecnologia com foco em programação, sistemas embarcados e automação.  
+Tenho interesse em desenvolvimento de software, eletrônica e infraestrutura Linux.
+
+---
+
+## 💻 Conhecimento nas Tecnologias
+
 <table>
-   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=purple" alt="C#"/>
-    </td>
-    <td>:star::star:</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    </td>
-    <td>:star::star::star::star:</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    </td>
-    <td>:star::star::star:</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-    </td>
-    <td>:star::star::star::star:</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-    </td>
-    <td>:star::star::star:</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    </td>
-    <td>:star::star::star::star::star:</td>
-  </tr>
-</table>
-## Cursando:
-<table>
-  <tr>
-    <th>Curso</th>
-    <th>Instituição</th>
-    <th>Início</th>
-    <th>Previsão de Término</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>Engenharia da Computação</td>
-    <td>USJT</td>
-    <td>Mar/2023</td>
-    <td>Dez/2027</td>
-    <td>Cursando</td>
-  </tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+</td>
+<td>⭐⭐</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</td>
+<td>⭐⭐⭐⭐</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</td>
+<td>⭐⭐⭐</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</td>
+<td>⭐⭐⭐⭐</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+</td>
+<td>⭐⭐⭐</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
+
 </table>
 
+---
 
-## Certificados:
+## 🎓 Formação
+
 <table>
-  <tr>
-    <td>
-      <img src="https://th.bing.com/th/id/R.d4f82d0ddae90a11456b2c161edf9681?rik=ry9cBxkdL8UTew&pid=ImgRaw&r=0" alt="AZURE-AI900" width="80"/>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/37155a3a-cdef-45d3-a669-bb7f14af3aea/public_url">
-        AZURE AI-900
-      </a> - Fundamentos básicos de IA
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png" alt="SENAI" width="100"/>
-    </td>
-    <td>SENAI - Técnico de Eletroeletrônica</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-    </td>
-    <td>AWS - Fundamentos de Computação em Nuvem (20h)</td>
-  </tr>
+
+<tr>
+<th>Curso</th>
+<th>Instituição</th>
+<th>Início</th>
+<th>Previsão de Término</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>Engenharia da Computação</td>
+<td>Universidade São Judas Tadeu</td>
+<td>Mar/2023</td>
+<td>Dez/2027</td>
+<td>Cursando</td>
+</tr>
+
+</table>
+
+---
+
+## 📜 Certificados
+
+<table>
+
+<tr>
+<td>
+<img src="https://th.bing.com/th/id/R.d4f82d0ddae90a11456b2c161edf9681?rik=ry9cBxkdL8UTew&pid=ImgRaw&r=0" width="80">
+</td>
+<td>
+
+**AZURE AI-900 – Fundamentos de IA**
+
+<a href="https://www.credly.com/badges/37155a3a-cdef-45d3-a669-bb7f14af3aea/public_url">
+Ver certificado
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png" width="100">
+</td>
+<td>
+
+**SENAI**  
+Técnico em Eletroeletrônica
+
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</td>
+<td>
+
+**AWS – Fundamentos de Computação em Nuvem (20h)**
+
+</td>
+</tr>
+
 </table>
