@@ -10,13 +10,9 @@ Tenho interesse em desenvolvimento de software, eletrônica e infraestrutura Lin
 
 ## 💻 Conhecimento nas Tecnologias
 
+### Linguagens de Programação
+
 <table>
-<tr>
-<td>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-</td>
-<td>⭐⭐</td>
-</tr>
 
 <tr>
 <td>
@@ -34,6 +30,21 @@ Tenho interesse em desenvolvimento de software, eletrônica e infraestrutura Lin
 
 <tr>
 <td>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+</td>
+<td>⭐⭐</td>
+</tr>
+
+</table>
+
+---
+
+### Sistemas Embarcados
+
+<table>
+
+<tr>
+<td>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </td>
 <td>⭐⭐⭐⭐</td>
@@ -46,14 +57,48 @@ Tenho interesse em desenvolvimento de software, eletrônica e infraestrutura Lin
 <td>⭐⭐⭐</td>
 </tr>
 
+</table>
+
+---
+
+### Sistemas Operacionais
+
+<table>
+
 <tr>
 <td>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </td>
-<td>⭐⭐⭐⭐⭐</td>
+<td>⭐⭐⭐⭐</td>
 </tr>
 
 </table>
+
+Experiência com:
+
+- uso diário de **:contentReference[oaicite:1]{index=1}**
+- configuração de servidores
+- uso de terminal e shell
+- gerenciamento de pacotes
+- configuração de ambientes de desenvolvimento
+- uso de containers com **:contentReference[oaicite:2]{index=2}**
+
+---
+
+## 🚀 Projetos
+
+Alguns projetos que venho desenvolvendo durante minha jornada em programação:
+
+- 🎮 **2D Shooter em Python**  
+  Desenvolvimento de um jogo utilizando **:contentReference[oaicite:3]{index=3}**, com sistema de inimigos, controle de tempo e modularização do código.
+
+- 🌱 **Sistema de Irrigação Automática**  
+  Projeto utilizando **ESP32**, sensores e controle automatizado de irrigação.
+
+- 🤖 **Scripts de Automação em Python**  
+  Desenvolvimento de scripts para automação de tarefas e manipulação de dados.
+
+*(Esta seção será expandida com novos projetos.)*
 
 ---
 
