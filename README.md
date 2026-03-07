@@ -13,7 +13,7 @@ Tenho interesse em desenvolvimento de software, eletrônica e infraestrutura Lin
 <table>
 <tr>
 <td>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 </td>
 <td>⭐⭐</td>
 </tr>
