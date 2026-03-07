@@ -4,6 +4,12 @@ Engenharia da Computação / Técnico de Eletroeletrônica<br>
 
 <h2>Conhecimento nas Tecnologias:</h2>
 <table>
+   <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=CSharp&logoColor=white" alt="C#"/>
+    </td>
+    <td>:star::star:</td>
+  </tr>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
