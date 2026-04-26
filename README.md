@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&color=0ea5e9&size=38&center=true&vCenter=true&width=1000&duration=2000&pause=3000&lines=Fala,+eu+sou+o+Vascon;Engenharia+da+Computação;Automação,+IA+e+Sistemas;Construindo+coisas+de+verdade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=VT323&color=0ea5e9&size=44&center=true&vCenter=true&width=1000&duration=2000&pause=3000&lines=Fala,+eu+sou+o+Vascon;Engenharia+da+Computação;Automação,+IA+e+Sistemas;Construindo+coisas+de+verdade)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
@@ -10,6 +10,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,docker,aws,azure,git,dotnet" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="48" />
 </div>
 
 <br>
@@ -37,6 +38,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230ea5e9?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer"/>
