@@ -12,14 +12,7 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,docker,aws,azure,git,dotnet" />
 </div>
 
-## 🧠 Sobre mim
-
-🎓 Estudante de Engenharia da Computação  
-🔧 Experiência com manutenção, automação e infraestrutura  
-🐧 Usuário avançado de Linux (Docker, servidores, self-hosting)  
-⚡ Focado em projetos práticos (IA, automação, sistemas reais)  
-
-## 📊 Estatísticas
+<br>
 
 <div align="center">  
   <img 
