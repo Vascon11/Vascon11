@@ -6,18 +6,16 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 </div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,docker,aws,azure,git,dotnet" />
+</div>
+
 ## 🧠 Sobre mim
 
 🎓 Estudante de Engenharia da Computação  
 🔧 Experiência com manutenção, automação e infraestrutura  
 🐧 Usuário avançado de Linux (Docker, servidores, self-hosting)  
 ⚡ Focado em projetos práticos (IA, automação, sistemas reais)  
-
-## 🚀 Tecnologias
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,docker,aws,azure,git,dotnet" />
-</div>
 
 ## 📊 Estatísticas
 
@@ -34,7 +32,6 @@
   />
 </div>
 
----
 
 ## 🔗 Contato
 
