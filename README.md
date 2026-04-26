@@ -1,154 +1,58 @@
-# Gabriel Vascon
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=header"/>
 
-🎓 Engenharia da Computação  
-🔧 Técnico em Eletroeletrônica  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=0ea5e9&size=38&center=true&vCenter=true&width=1000&duration=2000&pause=3000&lines=Fala,+eu+sou+o+Vascon;Engenharia+da+Computação;Automação,+IA+e+Sistemas;Construindo+coisas+de+verdade)](https://git.io/typing-svg)
 
-Estudante de tecnologia com foco em programação, sistemas embarcados e automação.  
-Tenho interesse em desenvolvimento de software, eletrônica e infraestrutura Linux.
-
----
-
-## 💻 Conhecimento nas Tecnologias
-
-### Linguagens de Programação
-
-<table>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</td>
-<td>⭐⭐⭐⭐</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</td>
-<td>⭐⭐⭐</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-</td>
-<td>⭐⭐</td>
-</tr>
-
-</table>
+<div align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
+</div>
 
 ---
 
-### Sistemas Embarcados
+## 🧠 Sobre mim
 
-<table>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</td>
-<td>⭐⭐⭐⭐</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-</td>
-<td>⭐⭐⭐</td>
-</tr>
-
-</table>
+🎓 Estudante de Engenharia da Computação  
+🔧 Experiência com manutenção, automação e infraestrutura  
+🐧 Usuário avançado de Linux (Docker, servidores, self-hosting)  
+⚡ Focado em projetos práticos (IA, automação, sistemas reais)  
 
 ---
 
-### Sistemas Operacionais
+## 🚀 Tecnologias
 
-<table>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</td>
-<td>⭐⭐⭐⭐⭐</td>
-</tr>
-
-</table>
-
-Experiência com:
-
-- uso diário de Bordo
-- configuração de servidores
-- uso de terminal e shell (Bash)
-- gerenciamento de pacotes
-- configuração de ambientes de desenvolvimento
-- uso de containers com Docker
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,docker,aws,azure,git,postgresql" />
+</div>
 
 ---
 
-## 🎓 Formação
+## 📊 Estatísticas
 
-<table>
-
-<tr>
-<th>Curso</th>
-<th>Instituição</th>
-<th>Início</th>
-<th>Previsão de Término</th>
-<th>Status</th>
-</tr>
-
-<tr>
-<td>Engenharia da Computação</td>
-<td>Universidade São Judas Tadeu</td>
-<td>Mar/2023</td>
-<td>Dez/2027</td>
-<td>Cursando</td>
-</tr>
-
-</table>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a&include_all_commits=true" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&title_color=e2e8f0&text_color=cbd5f5&bg_color=0f172a" />
+</div>
 
 ---
 
-## 📜 Certificados
+## 🔗 Contato
 
-<table>
+<div align="center"> 
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/-Email-%230f172a?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230ea5e9?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
 
-<tr>
-<td>
-<img src="https://th.bing.com/th/id/R.d4f82d0ddae90a11456b2c161edf9681?rik=ry9cBxkdL8UTew&pid=ImgRaw&r=0" width="80">
-</td>
-<td>
+---
 
-**AZURE AI-900 – Fundamentos de IA**
+## ⚙️ Projetos em destaque
 
-<a href="https://www.credly.com/badges/37155a3a-cdef-45d3-a669-bb7f14af3aea/public_url">
-Ver certificado
-</a>
+- 🤖 Automação com n8n + WhatsApp API  
+- 🌱 Sistema de irrigação com ESP32 + energia solar  
+- 🖥️ Servidores self-hosted com Docker + Cloudflare Tunnel  
 
-</td>
-</tr>
+---
 
-<tr>
-<td>
-<img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png" width="100">
-</td>
-<td>
-
-**SENAI**  
-Técnico em Eletroeletrônica
-
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-</td>
-<td>
-
-**AWS – Fundamentos de Computação em Nuvem (20h)**
-
-</td>
-</tr>
-
-</table>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer"/>
