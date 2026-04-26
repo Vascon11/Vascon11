@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,docker,aws,azure,git,dotnet" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="48" />
+  <img src="https://cdn.simpleicons.org/n8n/ea4b71" width="48" />
 </div>
 
 <br>
