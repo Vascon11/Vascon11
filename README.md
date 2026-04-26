@@ -45,10 +45,10 @@
 ## 🔗 Contato
 
 <div align="center"> 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:gabrielvascon11@outlook.com">
     <img src="https://img.shields.io/badge/-Email-%230f172a?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-vascon-luchi-da-silva-197a14217/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230ea5e9?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
