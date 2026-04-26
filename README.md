@@ -6,8 +6,6 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 </div>
 
----
-
 ## 🧠 Sobre mim
 
 🎓 Estudante de Engenharia da Computação  
@@ -15,15 +13,11 @@
 🐧 Usuário avançado de Linux (Docker, servidores, self-hosting)  
 ⚡ Focado em projetos práticos (IA, automação, sistemas reais)  
 
----
-
 ## 🚀 Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,docker,aws,azure,git,dotnet" />
 </div>
-
----
 
 ## 📊 Estatísticas
 
@@ -53,6 +47,5 @@
   </a> 
 </div>
 
----
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer"/>
