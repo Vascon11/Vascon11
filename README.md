@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=0ea5e9&size=38&center=true&vCenter=true&width=1000&duration=2000&pause=3000&lines=Fala,+eu+sou+o+Vascon;Engenharia+da+Computação;Automação,+IA+e+Sistemas;Construindo+coisas+de+verdade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&color=0ea5e9&size=38&center=true&vCenter=true&width=1000&duration=2000&pause=3000&lines=Fala,+eu+sou+o+Vascon;Engenharia+da+Computação;Automação,+IA+e+Sistemas;Construindo+coisas+de+verdade)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
