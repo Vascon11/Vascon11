@@ -20,7 +20,7 @@
 ## 🚀 Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,docker,aws,azure,git,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,docker,aws,azure,git,dotnet" />
 </div>
 
 ---
@@ -52,14 +52,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230ea5e9?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
-
----
-
-## ⚙️ Projetos em destaque
-
-- 🤖 Automação com n8n + WhatsApp API  
-- 🌱 Sistema de irrigação com ESP32 + energia solar  
-- 🖥️ Servidores self-hosted com Docker + Cloudflare Tunnel  
 
 ---
 
