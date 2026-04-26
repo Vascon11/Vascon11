@@ -27,8 +27,7 @@
   />
 </div>
 
-
-## 🔗 Contato
+<br>
 
 <div align="center"> 
   <a href="mailto:gabrielvascon11@outlook.com">
