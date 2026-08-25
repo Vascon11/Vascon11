@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&color=0ea5e9&size=44&center=true&vCenter=true&width=1000&duration=2000&pause=3000&lines=Fala,+eu+sou+o+Vascon;Engenharia+da+Computa%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o,+IA+e+Sistemas;Construindo+coisas+de+verdade)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30">
 </div>
 
 <br>
@@ -23,8 +23,11 @@
 <br>
 
 <div align="center">
+  <a href="https://resume.vascon1.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portf%C3%B3lio-%2307090b?style=for-the-badge&logo=googlechrome&logoColor=17e5a1&labelColor=07090b" />
+  </a>
   <a href="mailto:gabrielvascon11@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-%230f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-%230f172a?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-vascon-luchi-da-silva-197a14217/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
