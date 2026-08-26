@@ -16,8 +16,8 @@
 <br>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-three-eta-90.vercel.app/api?username=Vascon11&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=00000000&include_all_commits=true&cache_seconds=86400" />
-  <img width="41%" height="195px" src="https://github-readme-stats-three-eta-90.vercel.app/api/top-langs/?username=Vascon11&layout=compact&hide_border=true&title_color=e2e8f0&text_color=cbd5f5&bg_color=00000000&cache_seconds=86400" />
+  <img width="49%" height="195px" src="https://github-readme-stats-three-eta-90.vercel.app/api?username=Vascon11&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=00000000&include_all_commits=true&cache_seconds=86400&v=2" />
+  <img width="41%" height="195px" src="https://github-readme-stats-three-eta-90.vercel.app/api/top-langs/?username=Vascon11&layout=compact&hide_border=true&title_color=e2e8f0&text_color=cbd5f5&bg_color=00000000&cache_seconds=86400&v=2" />
 </div>
 
 <br>
